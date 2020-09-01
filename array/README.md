@@ -1,3 +1,5 @@
+**TODO:**  220, 167
+
 ### 双指针
 - [88]Merge Sorted Array
 
@@ -16,3 +18,15 @@
 
 ### dp
 - [53]Maximum Subarray 
+
+### 常用空间换时间方法
+#### set
+- [217]Contains Duplicate
+
+#### map
+- [219]Contains Duplicate II
+
+#### 计数排序
+- [274]H-Index
+
+#### 桶排序
